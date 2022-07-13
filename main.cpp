@@ -1,0 +1,8 @@
+#include"Girl.h"
+
+int main() {
+
+
+	return 0;
+}
+
